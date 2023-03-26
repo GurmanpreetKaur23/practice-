@@ -137,7 +137,7 @@ int main() {
 	} else {
 		printf("\n");
 		printBody(mistakes, body);
-		printf("\n\n\tBetter try next time. Word was %s\n\n", word);
+		printf("\n\n\tBetter luck next time. Word was %s\n\n", word);
 	}
 
 	free(body);
